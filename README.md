@@ -5,7 +5,7 @@
 - Create a virtual environment & activate it
 - Use ART package to print Text Art.
 - Print the phrase "BELIEVE AND ACHEIVE" designed with font `block`.
-- print the phrase "HELLO" designed with font `sub-zero`.
+- print the phrase "HELLO" designed with font 'sub-zero'.
 
 
 ## Bonus
